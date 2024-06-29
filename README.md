@@ -1,4 +1,4 @@
-![App Image](todo-app.gif)
+https://redux-react-todo-app.netlify.app/
 
 # Todo Application
 
